@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Тэг - Vincent Le Corre</title>
+        <link>https://ru.vincentlecorre.org/tags/</link>
+        <description>Tags - Тэг - Vincent Le Corre</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><atom:link href="https://ru.vincentlecorre.org/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
