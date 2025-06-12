@@ -4,6 +4,10 @@
     ><url>
             <loc>https://ru.vincentlecorre.org/categories/</loc><xhtml:link
                         rel="alternate"
+                        hreflang="ar"
+                        href="https://ar.vincentlecorre.org/categories/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="zh-cn"
                         href="https://www.lushengqiao.com/categories/"
                         /><xhtml:link
@@ -28,6 +32,10 @@
                         href="https://hi.vincentlecorre.org/categories/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="it"
+                        href="https://it.vincentlecorre.org/categories/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="ja"
                         href="https://ja.vincentlecorre.org/categories/"
                         /><xhtml:link
@@ -44,6 +52,10 @@
                     href="https://ru.vincentlecorre.org/categories/"
                     /></url><url>
             <loc>https://ru.vincentlecorre.org/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="ar"
+                        href="https://ar.vincentlecorre.org/"
+                        /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://www.lushengqiao.com/"
@@ -69,6 +81,10 @@
                         href="https://hi.vincentlecorre.org/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="it"
+                        href="https://it.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="ja"
                         href="https://ja.vincentlecorre.org/"
                         /><xhtml:link
@@ -85,6 +101,10 @@
                     href="https://ru.vincentlecorre.org/"
                     /></url><url>
             <loc>https://ru.vincentlecorre.org/tags/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="ar"
+                        href="https://ar.vincentlecorre.org/tags/"
+                        /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://www.lushengqiao.com/tags/"
@@ -108,6 +128,10 @@
                         rel="alternate"
                         hreflang="hi"
                         href="https://hi.vincentlecorre.org/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="it"
+                        href="https://it.vincentlecorre.org/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ja"
