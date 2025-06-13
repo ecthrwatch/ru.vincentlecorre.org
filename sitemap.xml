@@ -16,6 +16,10 @@
                         href="https://zh-hant.lushengqiao.com/categories/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="nl"
+                        href="https://nl.vincentlecorre.org/categories/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="en"
                         href="https://www.vincentlecorre.org/categories/"
                         /><xhtml:link
@@ -26,6 +30,10 @@
                         rel="alternate"
                         hreflang="de"
                         href="https://de.vincentlecorre.org/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="pt-br"
+                        href="https://pt-br.vincentlecorre.org/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="hi"
@@ -44,8 +52,16 @@
                         href="https://pl.vincentlecorre.org/categories/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="ro"
+                        href="https://ro.vincentlecorre.org/categories/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="es"
                         href="https://es.vincentlecorre.org/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="uk"
+                        href="https://ua.vincentlecorre.org/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
@@ -65,12 +81,20 @@
                         href="https://zh-hant.lushengqiao.com/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="nl"
+                        href="https://nl.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="en"
                         href="https://www.vincentlecorre.org/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="https://www.vincentlecorre.fr/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="pt-br"
+                        href="https://pt-br.vincentlecorre.org/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="de"
@@ -93,8 +117,16 @@
                         href="https://pl.vincentlecorre.org/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="ro"
+                        href="https://ro.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="es"
                         href="https://es.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="uk"
+                        href="https://ua.vincentlecorre.org/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
@@ -114,6 +146,10 @@
                         href="https://zh-hant.lushengqiao.com/tags/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="nl"
+                        href="https://nl.vincentlecorre.org/tags/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="en"
                         href="https://www.vincentlecorre.org/tags/"
                         /><xhtml:link
@@ -124,6 +160,10 @@
                         rel="alternate"
                         hreflang="de"
                         href="https://de.vincentlecorre.org/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="pt-br"
+                        href="https://pt-br.vincentlecorre.org/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="hi"
@@ -142,8 +182,16 @@
                         href="https://pl.vincentlecorre.org/tags/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="ro"
+                        href="https://ro.vincentlecorre.org/tags/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="es"
                         href="https://es.vincentlecorre.org/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="uk"
+                        href="https://ua.vincentlecorre.org/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
